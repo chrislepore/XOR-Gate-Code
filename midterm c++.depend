@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570751398 source:c:\users\chris\documents\engineering stuff\cc++\midterm c++\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+
